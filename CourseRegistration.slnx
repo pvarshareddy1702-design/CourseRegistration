@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CourseRegistration.Core/CourseRegistration.Core.csproj" />
+  <Project Path="CourseRegistration.ManualTest/CourseRegistration.ManualTest.csproj" />
+  <Project Path="CourseRegistration.Tests/CourseRegistration.Tests.csproj" />
+</Solution>
